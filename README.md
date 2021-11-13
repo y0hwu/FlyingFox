@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://img.shields.io/github/downloads/akshat46/flyingfox/total?color=%2350D1C6&style=for-the-badge"> <img src="https://img.shields.io/netlify/b7d2d26f-028a-4ea3-b292-6a0599a0a2f6?color=%235FCECD&label=Netlify&style=for-the-badge"></p>
 
-<p align="center">My own attempt to make flyingfox to work on proton (Firefox 89+)</p>
+<p align="center"><h1>My own attempt to make flyingfox to work on proton (Firefox 89+)</h1></p>
 
 <h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>
 
