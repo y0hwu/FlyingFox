@@ -86,7 +86,7 @@
 /* don't bother with sidebar in light mode */
 
 /* dark mode */
-:root[style*="--lwt-accent-color:rgb(12, 12, 13);"] {
+:root{
     /* accentcolor */
     --lwt-accent-color: var(--dark-base) !important;
 
